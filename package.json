@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "leaflet-topography": "^0.2.1",
+    "leaflet.control.layers.tree": "^1.1.0",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
